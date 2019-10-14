@@ -3,6 +3,8 @@
 
 In the project directory, you can run:
 
+### git clone https://github.com/kltram/weather-app-in-nodejs.git
+
 ### npm install
 
 ### npm start
